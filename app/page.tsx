@@ -13,6 +13,9 @@ export default function Home() {
         <p className="font-heading text-xl sm:text-2xl tracking-widest uppercase text-gold mt-2">
           Celebration
         </p>
+        <p className="font-heading text-xl sm:text-2xl tracking-widest uppercase text-gold mt-2">
+          23, 2015 32 Ave NE 
+        </p>
 
         <div className="divider my-8" />
 
