@@ -11,7 +11,7 @@ export default function Home() {
           Axe Games
         </h1>
         <p className="font-heading text-xl sm:text-2xl tracking-widest uppercase text-gold mt-2">
-          Celebration
+          Celebration of Life
         </p>
         <p className="font-heading text-xl sm:text-2xl tracking-widest uppercase text-gold mt-2">
           23, 2015 32 Ave NE 

@@ -1,6 +1,6 @@
 export const EVENT = {
   name: "Axe Games Celebration",
-  date: "April 26, 2026",
+  date: "April 26, 2026 +",
   time: "3:00 PM",
   address: "23, 2015 32 Ave NE",
   addressShort: "23, 2015 32 Ave NE",
