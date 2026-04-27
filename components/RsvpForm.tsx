@@ -133,7 +133,7 @@ export function RsvpForm() {
       />
 
       <QuestionGroup
-        label="Favorite flavor of drink?"
+        label="Favourite flavor of drink?"
         value={form.drink}
         onChange={(v) => updateField("drink", v)}
         options={[...EVENT.drinkFlavors]}
